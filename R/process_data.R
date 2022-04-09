@@ -1,8 +1,3 @@
-#' Process to get the key tibbles used in the analysis. These steps
-#' are time-consuming, thus these tibbles are already saved as .rda
-#' files.
-
-
 #' the key tibble with the network information
 #' @export
 get_df <- function() {
