@@ -1,0 +1,40 @@
+Package: ReproduceChickenEgg
+Title: Reproduce the figures in Song et al., Generalism drives abundance: a computational causal discovery approach, 2022.
+Version: 0.1
+Authors@R: 
+    person("Chuliang", "Song", , "clsong.ecology@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7490-8626"))
+Description: Reproduce the figures in Song et al., Generalism drives abundance: a computational causal discovery approach, 2022.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    bestNormalize,
+    bipartite,
+    broom,
+    dHSIC,
+    dplyr,
+    factoextra,
+    FOCI,
+    forcats,
+    ggExtra,
+    ggforce,
+    ggplot2,
+    ggpubr,
+    ggstatsplot,
+    ggtext,
+    gt,
+    here,
+    jtools,
+    magrittr,
+    mgcv,
+    ncdf4,
+    patchwork,
+    purrr,
+    rsample,
+    tidyr,
+    viridis
+Depends: 
+    R (>= 2.10)
+LazyData: true

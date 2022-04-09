@@ -1,0 +1,21 @@
+Campylopterus.hemileucurus	Doryfera.ludoviciae	Eugenes.fulgens	Heliodoxa.jacula	Lampornis.calolaema	Panterpe.insignis	Phaethornis.guy	Selasphorus.flammulla	Selasphorus.scintilla
+besleria.solanoides	0	0	0	0	4	0	0	0	0
+bomarea.hirsuta	0	0	0	0	11	0	0	0	0
+burmeistera.parviflora	0	0	0	0	1	0	0	0	0
+cavendishia.bracteata	0	7	0	0	76	16	6	1	0
+centropogon.solanifolius	0	0	1	0	0	0	0	0	0
+columnea.magnifica	1	0	0	1	0	0	1	0	0
+columnea.microcalyx	0	0	0	0	0	0	1	0	0
+disterigma.humboldtii	0	0	0	0	0	1	0	18	3
+elleanthus.aurantiacus	0	0	0	0	1	0	0	4	0
+gaultheria.gracilis	0	0	0	0	3	7	0	0	0
+gonocalyx.pterocarpus	0	0	0	0	5	0	0	1	0
+heliconia.lankesteri	10	0	0	3	3	0	4	0	0
+hoffmannia.arborescens	0	0	0	0	3	0	0	0	0
+kohleria.tigridia	0	0	0	0	2	0	0	0	0
+macrocarpaea.macrophylla	0	0	1	0	4	0	0	5	0
+malvaviscus.palmanus	0	0	0	0	0	0	2	0	0
+neomirandea.eximia	0	0	0	0	0	0	0	1	0
+palicourea.lasiorrhachis	0	0	0	0	60	5	0	0	0
+vaccinium.poasanum	0	0	0	0	0	9	0	0	0
+vriesea.ororiensi	0	0	0	0	5	0	0	0	0

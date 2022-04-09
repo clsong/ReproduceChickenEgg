@@ -1,0 +1,25 @@
+Amazilia.fimbriata	Amazilia.versicolor	Aphantochroa.cirrochloris	Chlorostilbon.lucidus	Florisuga.fusca	Lophornis.chalybeus	Phaethornis.eurynome	Phaethornis.squalidus	Ramphodon.naevius	Thalurania.glaucopis
+Acnistus.arborescens	0	3	0	0	0	6	0	0	0	23
+Aechmea.nudicaulis	0	0	0	0	0	0	0	0	6	5
+Costus.spiralis	0	0	1	0	0	0	0	0	55	0
+Dahlstedtia.pentaphylla	0	0	0	0	2	0	2	0	3	8
+Erythrina.speciosa	0	0	0	0	0	0	0	0	19	0
+Heliconia.farinosa	0	0	0	0	0	0	1	0	4	0
+Inga.edulis	3	0	0	3	6	0	0	0	0	4
+Manettia.luteo-rubra	0	0	0	0	0	0	0	0	0	5
+Mendoncia.velloziana	0	0	0	0	2	0	0	0	0	10
+Musa.rosacea	7	0	0	0	1	0	0	0	30	57
+Nematanthus.tessmannii	0	0	0	0	0	0	0	0	4	0
+Nidularium.innocentii	0	0	0	0	0	0	1	0	15	0
+Nidularium.procerum	0	0	0	0	0	0	0	0	4	0
+Schwartzia.brasiliensis	0	0	1	0	0	0	0	0	3	2
+Pachystachys.coccinea	0	0	0	0	0	0	0	0	4	0
+Psychotria.nuda	1	0	0	0	0	0	0	0	44	49
+Psychotria.suterella	2	1	0	0	0	0	0	0	2	2
+Rubus.rosifolius	0	0	0	0	0	0	0	0	0	9
+Schizolobium.parahyba	0	0	0	0	0	0	0	0	0	3
+Stachytarpheta.maximiliani	0	0	0	0	0	0	0	1	0	0
+Tabebuia.umbellata	0	0	0	0	0	0	0	0	0	2
+Vriesea.carinata	0	0	0	0	0	0	0	0	11	0
+Vriesea.ensiformes	0	0	0	0	0	0	0	0	9	0
+Vriesea.incurvata	0	0	0	0	0	0	0	0	14	0

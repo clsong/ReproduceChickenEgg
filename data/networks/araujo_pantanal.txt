@@ -1,0 +1,19 @@
+Eupetomena.macroura	Hylocharis.chrysura	Phaethornis.subochraceous	Polytmus.guainumbi
+Bignoniaceae.sp1	0	23	0	0
+Bromelia.balansae	0	25	6	0
+Camptosema.ellipticum	0	25	0	0
+Cordia.glabrata	0	24	0	0
+Cuphea.melvilla	0	78	0	0
+Helicteres.guazumaefolia	0	454	0	15
+Hippeastrum.puniceum	0	0	7	0
+Inga.vera	0	143	0	0
+Melochia.parvifolia	0	1	0	0
+Paullinia.pinnata	0	1	0	0
+Prestonia.coalita	0	1	0	0
+Psittacanthus.cordatus	227	94	0	0
+Psychotria.carthagenensis	0	1	0	0
+Sabicea.aspera	0	63	0	0
+Tabebuia.aurea	2	77	0	0
+Thevetia.bicornuta	0	1	0	0
+Vigna.longifolia	0	20	0	0
+Vitex.cymosa	0	22	0	0

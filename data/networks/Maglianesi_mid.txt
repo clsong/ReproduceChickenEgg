@@ -1,0 +1,26 @@
+Doryfera.ludoviciae	Eupherusa.nigriventris	Eutoxeres.aquila	Heliodoxa.jacula	Lampornis.calolaema	Lampornis.hemileucus	Phaethornis.guy	Phaethornis.striigularis
+besleria.notabilis	0	1	0	0	0	0	0	0
+calathea.lasiostachya	0	0	0	0	0	1	0	0
+cavendishia.callista	2	1	0	0	1	1	6	0
+cavendishia.complectens	0	2	0	0	0	3	0	1
+cavendishia.quereme	0	0	0	0	0	1	0	0
+centropogon.granulosus	0	0	1	0	0	0	0	0
+columnea.purpurata	0	0	0	0	0	0	1	0
+columnea.querceti	0	0	0	0	0	0	1	0
+costus.curvibracteatus	0	4	0	0	0	1	2	0
+costus.pulverulentus	0	1	0	0	0	2	22	0
+drymonia.conchocalyx	0	0	0	0	0	0	3	0
+faramea.eurycarpa	0	1	0	0	0	0	0	0
+gurania.coccinea	0	0	0	0	1	1	2	2
+guzmania.nicaraguensis	0	0	0	0	0	0	3	0
+heliconia.atropurpurea	0	0	0	0	0	0	38	0
+heliconia.vaginalis	0	2	0	0	0	1	23	0
+hillia.triflora	0	0	0	0	0	1	1	0
+palicourea.gomezii	0	4	0	0	0	1	0	0
+palicourea.sp	0	5	0	0	0	0	0	0
+pitcairnia.brittoniana	0	0	0	1	0	0	6	0
+psammisia.ramiflora	4	0	0	0	0	0	0	0
+psychotria.elata	0	5	0	0	0	31	0	0
+renealmia.cernua	0	0	0	0	0	5	0	1
+satyria.meiantha	11	3	0	0	0	0	2	0
+thibaudia.costaricensi	0	9	0	0	0	4	0	0

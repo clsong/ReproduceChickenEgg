@@ -1,0 +1,17 @@
+Anthracothorax.nigricollis	Chlorostilbon.lucidus	Florisuga.fusca	Hylocharis.chrysura	Leucochloris.albicollis	Stephanoxis.loddigesii	Thalurania.glaucopis
+Erythrina.speciosa	2	0	1	13	0	0	0
+Erythrina.cristagalli	1	0	0	29	0	0	0
+Calliandra.tweedii	0	0	2	56	1	2	2
+Calliandra.brevipes	0	0	0	1	0	0	0
+Luehea.divaricata	0	0	0	119	0	0	0
+Jacaranda.momosaefolia	2	0	0	2	0	0	0
+Tillandsia.aeranthos	0	0	0	12	0	1	1
+Aechmea.nudicaullis	0	1	0	29	0	0	0
+Bromelia.antiacantha	0	0	0	2	0	0	0
+Aechmea.recurvata	0	0	0	2	0	0	0
+Melaleuca.leucadendra	0	0	0	64	0	0	0
+Callistemon.speciosus	0	0	2	43	0	0	0
+Justicia.brasiliana	0	21	0	41	1	7	15
+Dicliptera.pohliana	0	0	0	2	0	0	0
+Campsis.grandiflora	0	0	0	1	1	0	0
+Tropaeolum.pentaphylum	0	0	0	1	0	1	0

@@ -1,0 +1,12 @@
+Amazilia.beryllina	Archilochus.colubris	Atthis.heloisa	Calothorax.lucifer	Colibri.thalassinus	Eugenes.fulgens	Hylocharis.leucotis	Lampornis.amethystinus	Lampornis.clemenciae	Selasphorus.platycercus	Selasphorus.rufus	Selasphorus.sasin
+Bouvardia.ternifolia	0	20	0	29	54	74	118	0	36	82	36	0
+Castilleja.scorzonerifolia	0	0	0	0	0	18	21	0	0	0	0	0
+Castilleja.tenuiflora	0	16	0	27	0	22	35	0	0	29	22	20
+Cirsium.nivale	0	0	0	0	33	0	18	0	36	0	0	0
+Echeveria.gibbiflora	0	0	0	0	0	18	22	0	0	0	0	0
+Fuchsia.micropylla	0	0	0	0	0	15	14	0	0	0	0	0
+Penstemon.gentianoides	0	18	0	0	14	24	51	0	29	0	0	0
+Penstemon.roseus	16	17	0	0	34	36	97	0	33	52	15	12
+Prunella.vulgaris	0	0	0	0	0	15	19	0	0	24	17	18
+Salvia.elegans	11	11	12	0	13	20	76	14	18	11	9	8
+Salvia.mocinoi	0	0	0	0	0	0	26	0	0	0	0	0

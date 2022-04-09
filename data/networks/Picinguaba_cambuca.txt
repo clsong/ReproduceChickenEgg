@@ -1,0 +1,23 @@
+A.fimbriata	A.versicolor	C.amethystina	C.rubricauda	F.fusca	G.hirsutus	H.squamosus	H.cyanus	L.albicollis	P.ruber	P.squalidus	R.naevius	T.glaucopis
+A.arborescens	0	6	0	0	0	0	0	4	0	49	0	0	7
+B.longimucronata	0	0	0	0	0	0	0	0	0	15	0	0	1
+B.edulis	0	10	0	0	0	1	0	0	0	5	2	1	0
+C.paniculata	0	0	0	0	0	0	0	0	0	0	0	1	1
+C.cornutus	0	0	0	0	1	9	0	0	0	0	2	4	0
+D.pinnata	9	0	0	0	0	0	0	0	0	0	1	6	0
+H.spathocircinata	0	0	0	0	0	0	0	0	0	0	1	12	2
+H.farinosa	0	0	0	0	0	1	0	0	0	0	0	34	1
+I.walleriana	0	0	0	0	0	0	0	0	0	5	0	0	0
+I.marginata	1	0	0	0	0	0	0	0	0	0	0	0	2
+L.camara	0	4	3	0	0	0	2	0	0	2	0	0	0
+M.velloziana	0	2	0	0	1	0	0	0	0	0	0	0	0
+M.ornata	1	2	0	1	1	0	0	0	1	0	0	19	1
+N.johannis	0	6	0	0	0	0	0	0	0	0	0	0	0
+P.nuda	1	0	0	0	0	8	0	0	0	0	2	10	2
+R.elegans	0	0	0	0	0	0	0	0	0	0	1	2	0
+S.grisea	0	0	0	0	0	0	0	0	0	4	0	0	0
+S.cayennensis	0	0	3	0	0	0	0	0	0	0	0	0	0
+T.geminiflora	5	2	0	0	0	0	0	0	0	0	0	0	0
+V.procera	14	0	0	0	0	0	0	0	0	0	0	0	0
+V.rodigasiana	5	0	0	0	0	0	0	0	0	0	0	7	0
+H.coronarium	6	0	0	0	11	0	0	4	0	0	0	2	0

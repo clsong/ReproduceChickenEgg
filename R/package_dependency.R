@@ -1,0 +1,26 @@
+#' @import here
+#' @import dplyr
+#' @import tidyr
+#' @import ggplot2
+#' @import bipartite
+#' @import broom
+#' @import ggforce
+#' @import patchwork
+#' @import jtools
+#' @import viridis
+#' @import ggExtra
+#' @import ggpubr
+#' @import ggstatsplot
+#' @import ggtext
+#' @import ncdf4
+#' @import FOCI
+#' @import factoextra
+#' @import mgcv
+#' @import dHSIC
+#' @import ggExtra
+#' @import bestNormalize
+#' @import rsample
+#' @import gt
+#' @import purrr
+#' @import forcats
+NULL

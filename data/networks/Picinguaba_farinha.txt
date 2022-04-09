@@ -1,0 +1,17 @@
+A.fimbriata	A.versicolor	P.squalidus	R.naevius	T.glaucopis
+B.longimucronata	1	0	1	13	2
+B.pyramidalis	0	0	0	11	0
+C.seidelii	0	0	0	18	0
+D.pinnata	0	0	0	5	1
+H.angusta	0	0	0	6	0
+H.farinosa	0	0	0	21	0
+I.marginata	0	1	0	0	0
+J.carnea	0	0	0	3	0
+N.fluminensis	0	0	0	4	0
+N.johannis	0	0	0	13	0
+N.angustifolium	0	0	0	9	0
+N.innocentii	0	0	0	8	0
+P.nuda	0	0	0	8	0
+S.nobilis	0	0	0	27	0
+V.ensiformis	0	0	0	2	0
+V.rodigasiana	0	0	0	18	1

@@ -1,0 +1,23 @@
+Amazilia.tzacatl	Florisuga.mellivora	Klais.guimeti	Phaeochroa.cuvierii	Phaethornis.longirostris	Phaethornis.striigularis	Thalurania.colombica	Threnetes.ruckeri
+aechmea.mariae-reginae	16	0	0	0	0	1	16	0
+aphelandra.storkii	0	0	0	0	3	0	0	0
+besleria.columneoides	0	0	0	0	0	1	0	0
+calathea.gymnocarpa	0	0	0	0	0	1	0	0
+calathea.inocephala	0	0	0	0	0	5	0	1
+calathea.lutea	0	0	0	0	0	1	0	0
+costus.pulverulentus	0	0	0	0	1	0	0	0
+costus.scaber	0	0	0	0	1	0	0	0
+guzmania.monostachia	0	0	0	0	0	2	0	0
+hamelia.patens	33	0	9	0	1	1	7	0
+heliconia.imbricata	16	0	0	1	2	0	37	0
+heliconia.latispatha	9	0	0	0	2	0	5	0
+heliconia.mariae	45	0	0	0	1	0	3	0
+heliconia.mathiasiae	1	0	0	0	3	0	0	0
+heliconia.pogonantha	0	0	0	0	1	0	0	0
+heliconia.wagneriana	0	0	0	0	2	0	0	0
+pentagonia.monocaulis	0	0	0	0	1	8	1	0
+psychotria.elata	0	0	0	0	1	0	0	0
+psychotria.poeppigiana	0	0	0	0	0	8	0	0
+renealmia.cernua	0	0	0	0	4	46	3	0
+schlegelia.fastigiata	0	0	0	0	0	0	8	0
+warscewiczia.coccinea	0	1	0	0	0	0	0	0

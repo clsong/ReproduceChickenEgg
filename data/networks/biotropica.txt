@@ -1,0 +1,19 @@
+Amazilia.fimbriata	Chlorostilbon.lucidus	Colibri.serrirostris	Eupetomena.macroura	Phaethornis.pretrei	Thalurania.furcata
+Bauhinia.brevipes	0	0	12	3	0	0
+Bauhinia.ungulata	0	11	8	22	0	0
+Caryocar.brasiliense	0	0	3	0	0	0
+Camptosema.coriaceum	0	0	9	7	4	0
+Coussarea.hydrangeifolia	0	17	0	0	0	0
+Dicliptera.squarrosa	0	0	0	0	38	0
+Geissomeria.longiflora	0	0	0	0	27	0
+Helicteres.brevispira	0	0	1	0	16	18
+Helicteres.sacarolha	3	0	13	0	0	0
+Heliconia.psittacorum	0	0	0	0	12	9
+Inga.vera	0	19	32	56	8	0
+Manettia.cordifolia	0	0	0	0	32	0
+Palicourea.marcgravii	0	0	0	0	0	26
+Palicourea.rigida	0	0	4	0	0	0
+Qualea.multiflora	0	0	3	16	2	0
+Ruellia.brevifolia	0	0	0	0	33	7
+Stachytarpheta.gesnerioides	9	0	15	0	0	0
+Vochysia.tucanorum	0	9	23	27	0	0

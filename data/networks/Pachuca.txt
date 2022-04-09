@@ -1,0 +1,24 @@
+Archilochus.colubris	Calothorax.lucifer	Colibri.thalassinus	Cynanthus.latirostris	Eugenes.fulgens	Hylocharis.leucotis	Lampornis.clemenciae	Selasphorus.rufus	Selasphorus.platycercus
+Agave.sp	0	1	1	1	1	1	1	0	0
+Bouvardia.ternifolia	1	6	0	1	1	10	1	2	1
+Castilleja.tenuiflora	1	2	0	1	1	5	0	1	1
+Cuphea.aequipetala	0	1	0	0	0	0	0	0	0
+Cuphea.procumbeus	0	1	0	0	0	1	0	0	0
+Lamourouxia.dasyantha	0	1	1	1	0	1	1	0	1
+Loeselia.mexicana	0	1	0	1	1	1	0	1	1
+Nicotiana.glauca	0	1	1	1	1	1	1	0	1
+Oenothera.sp	0	0	0	0	0	1	0	0	1
+Opuntia.imbricata	0	1	1	0	1	1	1	1	1
+Opuntia.sp1.amarilla	0	1	0	0	0	0	0	0	1
+Opuntia.sp2.morada	0	1	0	0	0	0	0	0	1
+Penstemon.barbatus	1	1	0	1	1	1	1	0	1
+Salvia.amarissima	1	0	0	0	0	1	0	1	1
+Salvia.chamaedryoides	0	1	0	0	0	1	0	1	0
+Salvia.microphylla	1	1	0	0	0	1	0	1	1
+Salvia.polystachya	0	0	0	0	0	1	0	0	0
+Salvia.prunelloides	0	1	0	0	0	2	0	0	0
+Salvia.sp1	0	0	0	1	1	1	1	0	0
+Salvia.sp2	0	1	0	0	0	1	0	0	0
+Scutellaria.caerulea	0	1	0	0	0	1	0	0	0
+Silene.laciniata	0	1	0	0	0	0	0	0	0
+Stachys.coccinea	0	1	0	0	0	1	0	0	0
