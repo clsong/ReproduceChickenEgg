@@ -23,4 +23,6 @@
 #' @import gt
 #' @import purrr
 #' @import forcats
+#' @import ggpointdensity
+#' @import utils
 NULL

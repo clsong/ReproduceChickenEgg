@@ -31,8 +31,8 @@ plot_figure_2 <- function() {
 
   p_original <- df_regression %>%
     ggplot(aes(x, y)) +
-    ggpointdensity::geom_pointdensity() +
-    viridis::scale_color_viridis(option = "magma") +
+    geom_pointdensity() +
+    scale_color_viridis(option = "magma") +
     labs(
       x = "*X*",
       y = "*Y*"
@@ -42,8 +42,8 @@ plot_figure_2 <- function() {
       legend.title = element_blank(),
       legend.position = "none",
       text = element_text(size = 20),
-      axis.title.y = ggtext::element_markdown(),
-      axis.title.x = ggtext::element_markdown()
+      axis.title.y = element_markdown(),
+      axis.title.x = element_markdown()
     )
 
   df_regression_summary <- bind_rows(
@@ -72,8 +72,8 @@ plot_figure_2 <- function() {
     ungroup() %>%
     mutate(variable = ifelse(variable == "x", "*X*", "*Y*")) %>%
     ggplot(aes(value, cause)) +
-    ggpointdensity::geom_pointdensity() +
-    viridis::scale_color_viridis(option = "magma") +
+    geom_pointdensity() +
+    scale_color_viridis(option = "magma") +
     geom_label(
       data = p_value,
       aes(label = p),
@@ -90,7 +90,7 @@ plot_figure_2 <- function() {
       legend.position = "none",
       strip.placement = "outside",
       text = element_text(size = 20),
-      strip.text = ggtext::element_markdown()
+      strip.text = element_markdown()
     )
 
   # information theory
@@ -110,8 +110,8 @@ plot_figure_2 <- function() {
       y = normalize(y, method = "original")
     ) %>%
     ggplot(aes(x, y)) +
-    ggpointdensity::geom_pointdensity() +
-    viridis::scale_color_viridis(option = "magma") +
+    geom_pointdensity() +
+    scale_color_viridis(option = "magma") +
     labs(
       x = "*X* (scaled)",
       y = "*Y* (scaled)"
@@ -121,8 +121,8 @@ plot_figure_2 <- function() {
       legend.title = element_blank(),
       legend.position = "none",
       text = element_text(size = 20),
-      axis.title.y = ggtext::element_markdown(),
-      axis.title.x = ggtext::element_markdown()
+      axis.title.y = element_markdown(),
+      axis.title.x = element_markdown()
     )
 
 
@@ -142,8 +142,8 @@ plot_figure_2 <- function() {
 
   p_formal <- df_formal %>%
     ggplot(aes(x, y)) +
-    ggpointdensity::geom_pointdensity() +
-    viridis::scale_color_viridis(option = "magma") +
+    geom_pointdensity() +
+    scale_color_viridis(option = "magma") +
     labs(
       x = "*X* (normalized)",
       y = "*Y* (normalized)"

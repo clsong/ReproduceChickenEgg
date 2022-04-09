@@ -2,16 +2,10 @@
 % Please edit documentation in R/process_data.R
 \name{get_df}
 \alias{get_df}
-\title{Process to get the key tibbles used in the analysis. These steps
-are time-consuming, thus these tibbles are already saved as .rda
-files.
-the key tibble with the network information}
+\title{the key tibble with the network information}
 \usage{
 get_df()
 }
 \description{
-Process to get the key tibbles used in the analysis. These steps
-are time-consuming, thus these tibbles are already saved as .rda
-files.
 the key tibble with the network information
 }

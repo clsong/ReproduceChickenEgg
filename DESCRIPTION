@@ -13,6 +13,7 @@ Imports:
     bestNormalize,
     bipartite,
     broom,
+    utils,
     dHSIC,
     dplyr,
     factoextra,
@@ -34,7 +35,8 @@ Imports:
     purrr,
     rsample,
     tidyr,
-    viridis
+    viridis,
+    ggpointdensity
 Depends: 
     R (>= 2.10)
 LazyData: true
