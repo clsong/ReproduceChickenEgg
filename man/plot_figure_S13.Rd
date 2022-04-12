@@ -2,10 +2,12 @@
 % Please edit documentation in R/Appendix_F.R
 \name{plot_figure_S13}
 \alias{plot_figure_S13}
-\title{Reproduce Figure S13}
+\title{Reproduce Figure S13 (note that the reproduced figure lacks annotations
+in the main text; these annotations were added via the software Illustrator)}
 \usage{
 plot_figure_S13()
 }
 \description{
-Reproduce Figure S13
+Reproduce Figure S13 (note that the reproduced figure lacks annotations
+in the main text; these annotations were added via the software Illustrator)
 }
