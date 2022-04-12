@@ -17,11 +17,11 @@ plot_figure_4 <- function() {
     ggplot(aes(Temp, diff, color = level, fill = level)) +
     geom_abline(slope = 0, intercept = 0, color = "black", size = 1) +
     geom_point(size = 3) +
-    viridis::scale_color_viridis(discrete = TRUE, option = "A") +
     scale_color_manual(values = c("#FFBD20", "dodgerblue")) +
     scale_fill_manual(values = c("#FFBD20", "dodgerblue")) +
     geom_errorbarh(aes(xmin = Temp - sd, xmax = Temp + sd)) +
     facet_wrap(level ~ ., ncol = 1, scales = "free") +
+    stat_cor() +
     labs(
       x = "Mean temperature",
       y = "Difference between % of Abundant-Specialized \nand % of Rare-Generalized"
@@ -42,10 +42,10 @@ plot_figure_4 <- function() {
     ggplot(aes(NODFc, AS - RG, color = level, fill = level)) +
     geom_abline(slope = 0, intercept = 0, color = "black", size = 1) +
     geom_point(size = 3) +
-    viridis::scale_color_viridis(discrete = TRUE, option = "A") +
     scale_color_manual(values = c("#FFBD20", "dodgerblue")) +
     scale_fill_manual(values = c("#FFBD20", "dodgerblue")) +
     facet_wrap(level ~ ., ncol = 1, scales = "free") +
+    stat_cor() +
     labs(
       x = "Combined nestedness (NODFc)",
       y = "Difference between % of Abundant-Specialized \nand % of Rare-Generalized"

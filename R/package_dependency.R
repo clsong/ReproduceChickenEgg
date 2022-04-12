@@ -25,4 +25,5 @@
 #' @import forcats
 #' @import ggpointdensity
 #' @import utils
+#' @import ggpubr
 NULL
